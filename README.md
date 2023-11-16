@@ -1,7 +1,7 @@
 # Occupation-Pro
 
 ## Description
-This project, "Assignment 4," is a C++ console application designed to simulate organizational management, specifically focusing on university and company registrations. It demonstrates dynamic memory management, exception handling, and object-oriented programming principles. The application allows users to register persons in different organizations and universities, handle errors, and calculate total tuition fees for enrolled universities.
+This project, "Occupation-Pro," is a C++ console application designed to simulate organizational management, specifically focusing on university and company registrations. It demonstrates dynamic memory management, exception handling, and object-oriented programming principles. The application allows users to register persons in different organizations and universities, handle errors, and calculate total tuition fees for enrolled universities.
 
 ## Features
 - Management of persons in various organizations and universities.
