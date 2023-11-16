@@ -32,6 +32,7 @@ void withdraw(Organization* o, Person* p)
 
 //main: to test program
 int main() {
+    cout<<"\n\n\n"<<endl;
     Organization* o0 = new Organization("SAMSUNG");
     Organization* o1 = new Organization("Test");
     Organization* o2 = new Organization("Subway");
